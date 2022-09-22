@@ -78,4 +78,5 @@ public class Loan {
 	public void setState(String state) {
 		this.state = state;
 	}
+	
 }
