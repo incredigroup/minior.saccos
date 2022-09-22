@@ -1,0 +1,7 @@
+.app-container {
+    min-height: 350px;
+}
+
+td, th{
+    text-align: center;
+}
